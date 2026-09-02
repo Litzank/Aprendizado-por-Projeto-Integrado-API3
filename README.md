@@ -79,4 +79,4 @@ A plataforma deverá conter os seguintes módulos:
 | 01                | 02/10/2026 | A fazer  | [MVP](MVP/sp1.md)  |
 | 02                | 30/10/2026 | A fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 27/11/2026 | A fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 24/06/2026 | a fazer  | [MVP](#)  |
+| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
