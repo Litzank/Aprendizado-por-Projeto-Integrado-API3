@@ -82,8 +82,8 @@ A plataforma deverá conter os seguintes módulos:
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| Video do Problema | 04/09/2026 | Entregue | [Video](https://www.youtube.com/watch?v=p4WN1IQ7SHc)|
-| 01                | 02/10/2026 | Entregue  | [MVP](MVP/sp1.md)  |
-| 02                | 30/10/2026 | Entregue  | [MVP](MVP/sp2.md)  |
-| 03                | 27/11/2026 | Entregue  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
+| Video do Problema | 04/09/2026 | A fazer | [Video](https://www.youtube.com/watch?v=p4WN1IQ7SHc)|
+| 01                | 02/10/2026 | A fazer   | [MVP](MVP/sp1.md)  |
+| 02                | 30/10/2026 | A fazer   | [MVP](MVP/sp2.md)  |
+| 03                | 27/11/2026 | A fazer   | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | A fazer   | [MVP](#)  |
