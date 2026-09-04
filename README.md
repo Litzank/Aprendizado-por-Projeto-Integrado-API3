@@ -1,4 +1,4 @@
-# Projeto segundo semestre - Logistica - Cargas Perigosas
+# Projeto do Terceiro Semestre - Logística - Otimização de Trajetos de Inspeção
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -22,11 +22,11 @@ Desenvolvimento de uma plataforma logística para otimizar os trajetos das equip
 |    Função     | Nome                                  |        LinkedIn & GitHub           |
 | :--------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Luiz Felipe Massa   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-m-084620123?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipemassa03)              |
-| Scrum Master  |    |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-a1aa632ab/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KillBotSamonela)
+| Scrum Master  |  Pedro Henrique de Sousa Dias  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/pedro-henrique-0b1abb32b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroworks73-dev)
 | Team Member  | João Ricardo Rodrigues Araújo  |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-rodrigues-ara%C3%BAjo-705560149?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/trabalhofatec2025)     |
 | Team Member   | Rodrigo Luiz Ramos dos Santos  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-luiz-santos-430081269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigdinLogistico)        |
 | Team Member |  Augusto Adriano Silva de Oliveira   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/augustoprofile) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Litzank)              |
-|  Team Member  |  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edlaine-aparecida-marcos-3898341a7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Dihmarcos85)        | 
+|  Team Member  | Isadora Ferreira De Paulo Moura |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-ferreira-34603a332?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Isadora01if)        | 
 
 
 # Objetivo do Projeto
@@ -55,15 +55,6 @@ Para aprofundar a compreensão sobre o comércio exterior dos municípios paulis
 *	Quais municípios e tipos de fiscalização concentram maior demanda? 
 *	Como balancear a carga de trabalho?
 *	Como comparar a operação real com a otimizada? 
-
-## Funcionalidades da Plataforma
-
-A plataforma deverá conter os seguintes módulos:
-*	
-*	
-*	
-
-
 
 # Product Backlog
 
