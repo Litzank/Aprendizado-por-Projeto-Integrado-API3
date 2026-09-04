@@ -1,4 +1,4 @@
-# Projeto do Terceiro Semestre - Logística - Otimização de Trajetos de Inspeção
+# Projeto do Terceiro Semestre - Logística - Otimização de Trajetos de Inspeção do IPEM-SP
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
