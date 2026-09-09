@@ -15,8 +15,9 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 
 Desenvolvimento de uma plataforma logística para otimizar os trajetos das equipes de inspeção do IPEM-SP com base em dados históricos. A solução aplica Pesquisa Operacional e mapas interativos para criar rotas inteligentes, comparar o cenário real com o otimizado e gerar dashboards de indicadores. Seu objetivo principal é reduzir tempos e distâncias de deslocamento, além de balancear com precisão a carga de trabalho operacional.
 
-# Equipe - Faclog
-
+# Equipe - GAVCA
+<div align="center">
+  
 ![Demo](DOCS/Logo.gif)
 
 |    Função     | Nome                                  |        LinkedIn & GitHub           |
@@ -27,7 +28,7 @@ Desenvolvimento de uma plataforma logística para otimizar os trajetos das equip
 | Team Member   | Rodrigo Luiz Ramos dos Santos  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-luiz-santos-430081269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigdinLogistico)        |
 | Team Member |  Augusto Adriano Silva de Oliveira   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/augustoprofile) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Litzank)              |
 |  Team Member  | Isadora Ferreira De Paulo Moura |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-ferreira-34603a332?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Isadora01if)        | 
-
+</div>
 
 # Objetivo do Projeto
 Este projeto tem como finalidade apoiar a compreensão e a aplicação das normas relacionadas ao transporte de cargas perigosas e especiais, com foco em:
