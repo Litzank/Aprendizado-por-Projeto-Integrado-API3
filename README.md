@@ -31,7 +31,7 @@ Desenvolvimento de uma plataforma logística para otimizar os trajetos das equip
 </div>
 
 # Objetivo do Projeto
-Este projeto tem como finalidade apoiar a compreensão e a aplicação das normas relacionadas ao transporte de cargas perigosas e especiais, com foco em:
+Desenvolver uma solução para apoiar o planejamento das equipes de fiscalização do IPEM-SP, utilizando dados históricos para analisar os deslocamentos, identificar oportunidades de otimização das rotas e melhorar a distribuição das fiscalizações entre as equipes:
 
 * Mapa das fiscalizações 
 * Rotas históricas e rotas otimizadas 
