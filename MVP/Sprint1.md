@@ -3,19 +3,19 @@
 ## 🎯 Propósito do MVP
 
 ## • Qual problema resolve?
-(Aqui deverá ser desenvolvido o entendimento do/s problema/s que essa sprint tentará solucionar durante o seu periodo de produção.)
+Organização e tratamento dos dados fornecidos pelo cliente, identificando informações duplicadas, incorretas ou desnecessárias. Também busca entender quais informações são mais relevantes para o objetivo do projeto e como apresentá-las no Power BI.
 
 ## • Qual hipótese será validada?
-(Aqui deverá ser descrito qual ideia será proposta para solucionar o problema citado acima.)
+Compreensão do escopo do projeto e das necessidades do cliente. A partir disso, serão selecionadas e tratadas as informações mais relevantes, criando uma primeira visualização dos dados no Power BI para validar a estrutura proposta.
 
 ## • Qual valor será entregue ao usuário final?
-(Aqui deverá descrever o valor que essa hipótese trará ao cliente/usuário, descrevendo de maneira clara como isso acontecerá)  
+Uma base de dados mais organizada e adequada aos objetivos do projeto, juntamente com uma primeira versão do dashboard. Essa versão permitirá visualizar os principais dados e entender quais informações poderão ser utilizadas nas próximas etapas.
 
 ---
 
 # 📝 Descrição da Solução
 ## • Funcionalidades principais incluídas
-(Descreva aqui quais são as principais funcionalidades que sua hipótese, quando aplicada, terá)
+Tratamento e organização dos dados fornecidos pelo cliente, com identificação de informações duplicadas, incorretas ou desnecessárias. Seleção dos dados mais relevantes para o projeto e preparação dessas informações para utilização no Power BI. Criação de um dashboard inicial com gráficos, tabelas e indicadores básicos, permitindo uma primeira visualização dos dados e servindo como base para futuras melhorias.
 
 ---
 
@@ -34,31 +34,40 @@
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | Entrega dos dashboards, filtros de informações e demonstrações de origem e destino | Concluído |
-| 02     | Polimento das informações e funcionalidades para melhor design das mesmos exibidos nos graficos | Em andamento |
-| 03     | Entrega do produto | A Fazer |
+| Sprint | Entregas Principais | Status |
+|--------|---------------------|--------|
+| 01 | Entrega dos dashboards, filtros de informações e demonstrações de origem e destino | Em andamento |
+| 02 | Desenvolvimento de ideias para demonstração e interpretação das informações, maior desenvolvimento sobre o dashboard | A fazer |
+| 03 | Finalização do produto | A Fazer |
 
 ---
 
-## 📊 Critérios de Aceitação
-(Adicione aqui, por tópicos ou outro método que lhe interessar, quais foram os critérios utilizados para comprovar que sua hipótese foi concluída e entregou o que foi planejado/esperado.)
+## 🧳 Critérios de Aceitação
 
--
+- Dados tratados e organizados de acordo com o objetivo do projeto.
+- Informações relevantes apresentadas nos dashboards.
+- Filtros de origem e destino funcionando corretamente.
+- Gráficos e informações apresentados de forma clara e compreensível.
+- Dashboard inicial entregue para avaliação do cliente.
 
 ---
 
 ## 📈 Métricas de Validação
-(Além de citar por quantos usuários forem testados esses métodos, deve ser demonstrado quais forem esses utilizados para testar o programa produzido)
-- Número de usuários que testaram o MVP: X
- 
+
+- Número de usuários que testaram o MVP: 3
+- Quantidade de dashboards desenvolvidos: 1
+- Quantidade de filtros implementados: 4
+- Validação das informações apresentadas nos gráficos: Em progresso
+- Feedback do usuário sobre a organização visual: Em avaliação
 
 ---
 
 ## 🚀 Próximos Passos
-(Aqui descreva, a partir do que foi produzido nessa sprint, qual deve ser os próximos passos ou focos desse projeto)
-- Os próximos passos do projeto serão focados em melhorias de usabilidade, ajustes visuais e expansão das funcionalidades do dashboard.
+- Aperfeiçoamento da organização visual do dashboard e das informações apresentadas.
+- Desenvolvimento de novas formas de demonstrar e facilitar a interpretação dos dados.
+- Ajustes nos gráficos e filtros de acordo com as necessidades identificadas.
+- Revisão das informações apresentadas, buscando garantir maior clareza e coerência nos resultados.
+- Realização dos últimos ajustes necessários para a finalização e entrega do produto.
 
 ---
 
