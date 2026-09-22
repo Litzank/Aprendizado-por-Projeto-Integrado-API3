@@ -74,7 +74,7 @@ Para aprofundar a compreensão sobre o comércio exterior dos municípios paulis
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| Video do Problema | 04/09/2026 | Feito | [Video](https://www.youtube.com/watch?v=p4WN1IQ7SHc)|
+| Video do Problema | 04/09/2026 | Feito | [Video](https://youtube.com/shorts/7Hbv3pHuFiA)|
 | 01                | 02/10/2026 | A fazer   | [MVP](MVP/sp1.md)  |
 | 02                | 30/10/2026 | A fazer   | [MVP](MVP/sp2.md)  |
 | 03                | 27/11/2026 | A fazer   | [MVP](MVP/sp3.md)  |
