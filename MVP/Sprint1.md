@@ -28,9 +28,11 @@ Tratamento e organização dos dados fornecidos pelo cliente, com identificaçã
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US** | Como gestor de projeto, quero , para | Alta / Média / Baixa | * |
-
-
+| US01 | Como gestor de projeto, quero o dashboard sobre a região do vale do paraíba, para de maneira a primaria focarmos no tratamento das informações da nossa região. | Alta | 01 |
+| US02 | Como gestor de projeto, quero gráfico de fiscalizações, para verificar quais cidades recebem mais fiscalizações por ano e que assim seja possível determinar com maior prioridade quais são os focos dos fiscais. | Média | 02 |
+| US03 | Como gestor de projeto, quero uma determinação dos fiscais, para verificar quais fiscais tem maior taxa de fiscalizações| Média | 03 |
+| US04 | Como gestor de projeto, quero dados de serviço por cidade, para verificar quais tipos de serviços são prestados pelo fiscais| Média | 04 |
+| US05 | Como gestor de projeto, quero uma mapa demonstrativo da cidade, para verificar quais são as regiões tem maior foco de fiscalizações | Média | 05 |
 ---
 
 ## 📅 Sprint(s) Relacionadas
