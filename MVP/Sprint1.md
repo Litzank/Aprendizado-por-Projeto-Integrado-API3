@@ -74,4 +74,4 @@ Tratamento e organização dos dados fornecidos pelo cliente, com identificaçã
 ---
 
 ## 📂 Anexos / Evidências
-<img src="DOCS/PowerBI/Imagens/PowerBiprimeiraSprint.png" width="800">
+<img src="DOCS/PowerBI/Imagens/Power Bi primeira Sprint.png" width="800">
