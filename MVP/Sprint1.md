@@ -74,4 +74,20 @@ Tratamento e organização dos dados fornecidos pelo cliente, com identificaçã
 ---
 
 ## 📂 Anexos / Evidências
-<img src="DOCS/PowerBI/Imagens/Power Bi primeira Sprint.png" width="800">
+
+- PowerBI
+
+![Dashboard](../DOCS/PowerBi/Imagens/PowerBiprimeiraSprint.png)
+
+---
+
+- PYTHON
+
+![Dashboard](../DOCS/PYTHON/Imagens/1S1.jpeg)
+
+![Dashboard](../DOCS/PYTHON/Imagens/2S1.jpeg)
+
+![Dashboard](../DOCS/PYTHON/Imagens/3S1.jpeg)
+
+![Dashboard](../DOCS/PYTHON/Imagens/4S1.jpeg)
+
