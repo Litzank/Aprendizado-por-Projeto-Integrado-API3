@@ -73,7 +73,7 @@ Reformulação completa do layout do Power BI, estruturado agora em três partes
 
 - PowerBI
 
-![Dashboard](../DOCS/PowerBi/Imagens/PowerBiprimeiraSprint.png)
+![Dashboard]()
 
 ---
 
@@ -81,5 +81,6 @@ Reformulação completa do layout do Power BI, estruturado agora em três partes
 
 <div align="center">
   
-![Demo](../DOCS/PYTHON/Vídeos/PythonS2.gif)
+![Demo](../DOCS/PYTHON/Videos/PythonS2.gif)
+
 </div>
