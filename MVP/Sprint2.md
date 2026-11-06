@@ -6,16 +6,22 @@
 Evolução e reorganização estrutural do BI, dividindo a apresentação em três seções bem definidas para tornar a visualização dos dados mais agradável, fluida e organizada para o usuário.
 
 ## • Qual hipótese será validada?
-A nova divisão estrutural em três partes (capa, painel principal e seção de apoio) melhora a interpretação das informações e a experiência visual na entrega do dashboard em relação à sprint anterior.
+A nova divisão estrutural em três partes (Capa visual, Painel Principal com filtros e Seção de Apoio com motoristas/histórico temporal) melhora a interpretação das informações e a experiência visual na entrega do dashboard.
 
 ## • Qual valor será entregue ao usuário final?
-Um layout de BI totalmente remodelado e mais intuitivo, dividido estrategicamente entre capa de apresentação, dados principais consolidados e seções complementares de apoio analítico.
+Um layout de BI remodelado e intuitivo, trazendo capa de apresentação com identidade visual (GAVCA), dados consolidados com novos filtros e uma seção dedicada a análises operacionais de motoristas, locais fiscalizados e linha do tempo.
 
 ---
 
 # 📝 Descrição da Solução
 ## • Funcionalidades principais incluídas
-Reformulação completa do layout do Power BI, estruturado agora em três partes distintas: introdução/capa visual, painel com os dados essenciais e uma seção adicional com novos elementos complementares.
+- **Capa Visual (Tela 1):** Tela inicial de apresentação com logo/arte do projeto e botão de navegação integrado para as telas seguintes.
+- **Painel Principal (Tela 2):** Consolidação dos dados essenciais (Total de fiscalizações por cidade, principais fiscais e categorias de serviço) com filtros superiores dinâmicos.
+- **Painel de Apoio e Métricas (Tela 3):** 
+  - Gráfico de **Principais Motoristas** (frequência de viagens).
+  - Análise temporal de **Contagem por Ano, Trimestre e Mês** (histórico detalhado).
+  - Detalhamento de **Empresas/Locais** mais fiscalizados.
+  - **Mapa da Região** interativo com exibição de coordenadas detalhadas.
 
 ---
 
@@ -28,10 +34,10 @@ Reformulação completa do layout do Power BI, estruturado agora em três partes
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Stories (Sprint 2)                                                                                                     | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------------------------------------------------------|------------|------------|
-| US06 | Como gestor de projeto, quero a reestruturação do BI em três partes (capa, painel principal e dados complementares), para organizar melhor a visualização das informações. | Alta | 01 |
-| US07 | Como gestor de projeto, quero a adição de uma capa visual no início do BI, para dar uma introdução mais agradável ao painel. | Média | 02 |
-| US08 | Como gestor de projeto, quero o agrupamento dos dados essenciais na segunda seção, para manter o histórico e a base principal de análises. | Alta | 03 |
-| US09 | Como gestor de projeto, quero a adição de novas métricas e elementos na terceira seção, para enriquecer o conteúdo apresentado. | Média | 04 |
+| US06 | Como gestor de projeto, quero a reestruturação do BI em três telas, para organizar melhor o fluxo de navegação e visualização das informações. | Alta | 01 |
+| US07 | Como gestor de projeto, quero uma capa inicial com botões de navegação e identidade visual, para padronizar a apresentação do projeto. | Média | 02 |
+| US08 | Como gestor de projeto, quero novos filtros globais no topo do painel, para permitir análises mais dinâmicas por cidade, fiscal e serviço. | Alta | 03 |
+| US09 | Como gestor de projeto, quero visualizações sobre frequência de motoristas, histórico temporal e locais recorrentes, para identificar padrões operacionais. | Alta | 04 |
 
 ---
 
@@ -39,33 +45,32 @@ Reformulação completa do layout do Power BI, estruturado agora em três partes
 | Sprint | Entregas Principais | Status |
 |--------|---------------------|--------|
 | 01 | Entrega dos dashboards iniciais, filtros de informações e demonstrações de origem e destino | Concluído |
-| 02 | Reorganização do layout do BI em três partes (capa, painel principal e seção complementar com novos dados) | Em andamento |
-| 03 | Finalização do produto, integração de geolocalização e botões de navegação | A Fazer |
+| 02 | Reorganização em 3 telas (Capa, Principal e Apoio), filtros globais e indicadores de motoristas/temporalidade | Concluído |
+| 03 | Integração final de geolocalização e refinamentos visuais de compatibilidade | A Fazer |
 
 ---
 
 ## 🧳 Critérios de Aceitação
 
-- Layout do BI reorganizado e dividido em três partes (capa, painel principal e elementos complementares).
-- Inclusão bem-sucedida de capa visual para introdução do painel.
-- Organização aprimorada dos dados mantidos da versão anterior junto aos novos complementos.
+- BI dividido e estruturado em 3 telas operacionais (Capa, Principal e Apoio).
+- Capa integrada com arte visual e botão funcional de redirecionamento.
+- Filtros superiores de Cidade, Fiscal e Serviço operando em conjunto com os gráficos.
+- Gráficos de motoristas, histórico temporal (2018) e empresas validados na Tela 3.
 
 ---
 
 ## 📈 Métricas de Validação
 
-- Número de seções estruturadas no BI: 3
-- Quantidade de dashboards desenvolvidos: 1
-- Quantidade de filtros implementados: 4
-- Validação da nova estrutura visual com a equipe: Em progresso
-- Feedback do usuário sobre o novo layout em três partes: Em avaliação
+- Número de telas estruturadas no BI: 3
+- Quantidade de filtros globais implementados: 3 (Cidade, Fiscal, Serviço)
+- Indicadores operacionais adicionados na Tela 3: Frequência de Motoristas, Histórico Temporal e Empresas Recorrentes
+- Validação visual com base nos prints do projeto: Aprovado
 
 ---
 
 ## 🚀 Próximos Passos
-- Implementação dos dados de geolocalização para refinar os mapas do projeto.
-- Desenvolvimento e inserção de botões de navegação rápida entre as seções e a capa do BI.
-- Realização dos ajustes finais para preparação da entrega da próxima sprint.
+- Refinar os dados de geolocalização e expansão dos mapas interativos.
+- Realizar os últimos testes de usabilidade e transição entre as telas do Power BI.
   
 ---
 
