@@ -61,15 +61,15 @@ Para aprofundar a compreensão sobre o comércio exterior dos municípios paulis
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| US01 | Como gestor de projeto, quero o dashboard sobre a região do vale do paraíba, para de maneira a primaria focarmos no tratamento das informações da nossa região. | Alta | 01 | 01 |
-| US02 | Como gestor de projeto, quero gráfico de fiscalizações, para verificar quais cidades recebem mais fiscalizações por ano e que assim seja possível determinar com maior prioridade quais são os focos dos fiscais. | Média | 02 | 01 |
-| US03 | Como gestor de projeto, quero uma determinação dos fiscais, para verificar quais fiscais tem maior taxa de fiscalizações| Média | 03 | 01 |
-| US04 | Como gestor de projeto, quero dados de serviço por cidade, para verificar quais tipos de serviços são prestados pelo fiscais| Média | 04 | 01 |
-| US05 | Como gestor de projeto, quero uma mapa demonstrativo da cidade, para verificar quais são as regiões tem maior foco de fiscalizações | Média | 05 | 01 |
-| US06 | Como gestor de projeto, quero a reestruturação do BI em três telas, para organizar melhor o fluxo de navegação e visualização das informações. | Alta | 01 | 02 |
-| US07 | Como gestor de projeto, quero uma capa inicial com botões de navegação e identidade visual, para padronizar a apresentação do projeto. | Média | 02 | 02 |
-| US08 | Como gestor de projeto, quero novos filtros globais no topo do painel, para permitir análises mais dinâmicas por cidade, fiscal e serviço. | Alta | 03 | 02 |
-| US09 | Como gestor de projeto, quero visualizações sobre frequência de motoristas, histórico temporal e locais recorrentes, para identificar padrões operacionais. | Alta | 04 | 02 |
+| US01 | Como gestor de projeto, quero o dashboard sobre a região do vale do paraíba, para de maneira a primaria focarmos no tratamento das informações da nossa região. | Alta | 3 | 01 |
+| US02 | Como gestor de projeto, quero gráfico de fiscalizações, para verificar quais cidades recebem mais fiscalizações por ano e que assim seja possível determinar com maior prioridade quais são os focos dos fiscais. | Média | 2 | 01 |
+| US03 | Como gestor de projeto, quero uma determinação dos fiscais, para verificar quais fiscais tem maior taxa de fiscalizações| Média | 4 | 01 |
+| US04 | Como gestor de projeto, quero dados de serviço por cidade, para verificar quais tipos de serviços são prestados pelo fiscais| Média | 4 | 01 |
+| US05 | Como gestor de projeto, quero uma mapa demonstrativo da cidade, para verificar quais são as regiões tem maior foco de fiscalizações | Média | 5 | 01 |
+| US06 | Como gestor de projeto, quero a reestruturação do BI em três telas, para organizar melhor o fluxo de navegação e visualização das informações. | Alta | 1 | 02 |
+| US07 | Como gestor de projeto, quero uma capa inicial com botões de navegação e identidade visual, para padronizar a apresentação do projeto. | Média | 2 | 02 |
+| US08 | Como gestor de projeto, quero novos filtros globais no topo do painel, para permitir análises mais dinâmicas por cidade, fiscal e serviço. | Alta | 3 | 02 |
+| US09 | Como gestor de projeto, quero visualizações sobre frequência de motoristas, histórico temporal e locais recorrentes, para identificar padrões operacionais. | Alta | 4 | 02 |
 | US10 | Como gestor de projetos, quero simular diferentes cenários de alocação de equipes e fiscalizações, para apoiar a tomada de decisão estratégica. | Média | 8 | 03 |
 | US11 | Como gestor de projetos, quero exportar relatórios técnicos dos cenários analisados, para documentar e comprovar os ganhos de eficiência. | Baixa | 5 | 03 |
 
