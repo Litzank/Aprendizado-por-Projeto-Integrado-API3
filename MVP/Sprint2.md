@@ -78,7 +78,7 @@ Um layout de BI remodelado e intuitivo, trazendo capa de apresentação com iden
 
 - PowerBI
 
-![Dashboard]()
+![Dashboard](../DOCS/PowerBi/Imagens/PBI-S2-01.png)
 
 ---
 
